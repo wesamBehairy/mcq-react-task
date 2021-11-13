@@ -1,12 +1,8 @@
 import React from "react";
 import { useDispatch, useSelector } from 'react-redux';
 import { answerQuestion } from '../store/slices/quizState.slice';
-// import { useState, useEffect } from 'react';
-// import { finishGame } from '../../store/slices/gameState.slice';
 
 const QuizPage = () => {
-
-    // const [timeLeft, setTimeLeft] = useState(60);
 
     const dispatch = useDispatch();
 

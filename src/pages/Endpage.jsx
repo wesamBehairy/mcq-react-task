@@ -9,7 +9,7 @@ const EndPage = () => {
         <React.Fragment>
             <div style={{border:'2px dashed #fff' , marginTop:'50px'}}>
                 <h2 style={{ color: 'white', textAlign: 'center' }}> thank you  </h2>
-                <p style={{ color: 'white', textAlign: 'center' }}> your score is {score} </p>
+                <p style={{ color: 'white', textAlign: 'center' }}> your score is {score} out of  5</p>
             </div>
         </React.Fragment>
 
