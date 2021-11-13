@@ -1,0 +1,12 @@
+*{
+    background-color: black;
+}
+
+.head{
+    color: #fff;
+}
+
+.frame{
+    border: 2px dashed #fff;
+    margin-top: 20px;
+}
